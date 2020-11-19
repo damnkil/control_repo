@@ -1,1 +1,1 @@
-class profile::db.pp{}
+class profile::db{}
